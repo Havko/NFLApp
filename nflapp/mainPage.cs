@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace nflapp
 {
-    public partial class Form1 : Form
+    public partial class mainPage : Form
     {
-        public Form1()
+        public mainPage()
         {
             InitializeComponent();
         }
